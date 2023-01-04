@@ -8,10 +8,12 @@ const Menu = () => {
   return (
     <div onClick={() => setClicked(!clicked)}>
       {!clicked ? (
-        <Image src="./ic.menu.svg" width={24} height={24} className={styles.menuicon} />
+        <Image             alt="menuicon"
+        src="./ic.menu.svg" width={24} height={24} className={styles.menuicon} />
       ) : (
         <div>
-          <Image src="./xicon.svg" width={24} height={24} className={styles.menuicon} />
+          <Image             alt="menuicon"
+ src="./xicon.svg" width={24} height={24} className={styles.menuicon} />
           <div className={styles.menu}>
             <ul className={styles.list}>
               <li>brand philosophy</li>

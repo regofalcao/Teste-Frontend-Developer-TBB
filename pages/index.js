@@ -37,17 +37,17 @@ export default function Home() {
         </div>
 
         <div id="HomeText">
-          <h2 className={styles.texthome}>we`&apos;`re here to help</h2>
+          <h2 className={styles.texthome}>we&apos;re here to help</h2>
           <h3 className={styles.texthome2}>
-            When it comes to caring for our most intimate areas, we`&apos;`ve lost our
+            When it comes to caring for our most intimate areas, we&apos;ve lost our
             connection.
           </h3>
           <h3 className={styles.texthome2}>
-            Embarrassed, unwilling, or unable to communicate with others, we`&apos;`re
+            Embarrassed, unwilling, or unable to communicate with others, we&apos;re
             needlessly neglecting the parts of our bodies that need it most.
           </h3>
           <h3 className={styles.texthome2}>
-            We`&apos;`re here to help. Providing you with the expertise, knowledge and
+            We&apos;re here to help. Providing you with the expertise, knowledge and
             products you need to feel confident in your personal care.
           </h3>
         </div>
