@@ -1,34 +1,33 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+TBB Front End
 
-## Getting Started
+Para rodar o código: 
 
-First, run the development server:
+- Fazer Clone do Repositório
+- Rodar o comando "yarn" ou "yarn install"
+- Após instalar os pacotes rodar o comando "yarn dev" 
+- Abrir o navegador na pagina localhost:3000
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Projeto Desenvolvido em NextJs e Css
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Imagens do Site
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+Mobile :
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<img width="179" alt="image" src="https://user-images.githubusercontent.com/64864720/210532994-692203d3-a758-4276-b9f2-e8b27303bea2.png">
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<img width="190" alt="image" src="https://user-images.githubusercontent.com/64864720/210533058-f06af5a3-856b-4f29-9825-86422f496405.png">
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+<img width="196" alt="image" src="https://user-images.githubusercontent.com/64864720/210533113-7735e3a3-55e1-4765-aae4-0222d380d5df.png">
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+Desktop: 
+
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/64864720/210532704-048cd7eb-f1ad-4e61-bf46-2e541973ae47.png">
+
+
+<img width="793" alt="image" src="https://user-images.githubusercontent.com/64864720/210532783-7f856682-17ca-4ad0-b0be-232ef02060d6.png">
